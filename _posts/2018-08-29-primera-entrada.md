@@ -28,4 +28,4 @@ tags: [Personajes legendarios]
 
 -Nooo.
 
--Vale, vale paramos. Por hoy
+-Vale, vale paramos. Por hoy.
