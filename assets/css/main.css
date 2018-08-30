@@ -975,7 +975,7 @@ table tfoot td {
   padding-bottom: 15px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #3281b2;
+  color: #0300c1;
   font-weight: 700;
 }
 
@@ -992,7 +992,7 @@ table tfoot td {
   height: 7px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
-  background-color:  #ff784f;
+  background-color:  #000000;
 }
 
 .about p {
