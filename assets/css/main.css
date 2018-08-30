@@ -791,6 +791,10 @@ img {
   display: inline-block;
 }
 
+.pagination {
+	color: #ffffff;
+}
+
 img + em {
   text-align: center;
   display: block;
