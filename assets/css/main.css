@@ -966,6 +966,7 @@ table tfoot td {
 .about img:hover {
   -webkit-transform: scale3d(0.9, 0.9, 1);
           transform: scale3d(0.9, 0.9, 1);
+	color: #000000;
 }
 
 .about .author-name {
