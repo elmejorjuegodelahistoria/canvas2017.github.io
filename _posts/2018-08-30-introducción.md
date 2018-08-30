@@ -3,7 +3,7 @@ layout: post
 title: Introducción.
 date: 2018-08-30
 description: Introduccion de mi blog.
-img: 20180830_104816.jpg
+img: kernel.png
 fig-caption: 
 tags: [Introducción]
 ---
