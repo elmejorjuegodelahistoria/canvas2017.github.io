@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducción.
-date: 2018-08-29
+date: 2018-08-30
 description: Introduccion de mi blog.
 img: html-img.jpg 
 fig-caption: 
